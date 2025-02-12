@@ -5,13 +5,12 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'en-US',
 
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  title: 'Visit Nepal 2025',
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    logo: 'https://www.tourguideinnepal.com/wp-content/uploads/2022/11/ac5b71754abf759a652e3fe30ec1fc61.png',
 
-    navbar: ['/', '/get-started'],
+    navbar: ['/'],
   }),
 
   bundler: viteBundler(),
