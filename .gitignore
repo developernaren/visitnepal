@@ -9,3 +9,8 @@ run
 .basement
 config.local.js
 basement_dist
+
+node_modules/
+blog/.vuepress/.cache/
+blog/.vuepress/.temp/
+blog/.vuepress/dist/
