@@ -4,23 +4,19 @@ export const enSidebar = sidebar({
   "/": [
     "",
     {
-      text: "Demo",
+      text: "Before you go",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "intro/",
+      link: "/intro.html",
       children: "structure",
     },
     {
-      text: "Articles",
-      icon: "book",
-      prefix: "posts/",
+      text: "Nature",
+      icon: "laptop-code",
+      prefix: "nature/",
+      link: "/tag/nature/",
       children: "structure",
     },
-    "intro",
-    {
-      text: "Slides",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
-    },
+
   ],
 });
