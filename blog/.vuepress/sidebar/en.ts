@@ -13,7 +13,7 @@ export const enSidebar = sidebar({
       text: "Our Tour",
       icon: "laptop-code",
       prefix: "posts",
-      link: "posts/our-time/tour.html",
+      link: "posts/our-time/mardi.html",
     },
     {
       text: "General Information",

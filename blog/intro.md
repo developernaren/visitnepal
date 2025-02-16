@@ -18,6 +18,24 @@ https://immigration.gov.np/en/page/tourist-visa
 
 Tl:dr; Most countries can get a visa on arrival at the airport. Just remember to bring some USD cash with you.
 
+### Safety and Security
+
+Emergency number in Nepal is ==100== for police and ==102== for ambulance. Please remember these numbers. The main cities we will be travelling during our trip is Kathmandu and Pokhara. These cities are considered very safe for tourists.
+
+#### Walking Alone
+
+During the day, it's very safe to walk around in Nepal. People are very friendly and helpful. Almost everyone can understand and reply to your basic questions in English.
+As safe as Nepal is, I would not recommend walking alone at night. Kathmandu is a very old city and the streets are very narrow. It's very easy to get lost. Please use a taxi or a riding app to get around at night.
+Also, there are a lot of stray dogs. They come out night and are usually aggressive towards strangers. They are not as friendly during night as they typically seem during the day.
+
+#### Partying
+
+Drinking socially is acceptable in Nepal. There are a lot of bars and clubs in Kathmandu and Pokhara. Please do not get too drunk and walk around alone at night. Please use a taxi or a riding app to get back to your hotel. All the cool bars, pubs and hotels are in [Thamel](https://maps.app.goo.gl/fUAiJoge9xK7Wx2m6) if  you are in Kathmandu and [Lakeside](https://maps.app.goo.gl/CeGWbqqU1D5VLWgM6) if you are in Pokhara. So, you can plan your stay based on your what you like.
+
+### General Noise and disturbance
+
+People like to pray and worship early in the morning, so it might disturb your sleep. Depending on your location, stray dogs may bark at night and cause disturbances. Please bring earplugs if you are a light sleeper.
+
 ### General Cost of things
 
 Flight to Nepal is pretty expensive but once you land here, things are pretty cheap in Nepal compared to Europe.
@@ -54,13 +72,15 @@ Please try out new foods and drinks in moderation. Always carry a hand sanitizer
 
 ### Toilets
 
-Most toilets in Nepal outside of hotels and cities are squat toilets. Please be prepared for this.
+Most toilets in Nepal outside of hotels and cities are squat toilets. Please be prepared for this. There might not be toilet papers in public toilets, so please carry toilet paper or wet wipes if you are travelling outside the city.
 
 ### Altitude Sickness
 
 Because we will be travelling to higher altitudes, please take is slow. There are medications available for it, that means you will pee a lot. So, take that into account.
 
+### Trekking and Travel Gear
 
+You can find almost anything you would need for trekking in Kathmandu and for cheap. So, if you do not have trekking gears, worry not! You have to set aside some days for shopping though.
 
 
 
