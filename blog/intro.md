@@ -17,6 +17,25 @@ https://immigration.gov.np/en/page/tourist-visa
 
 Tl:dr; Most countries can get a visa on arrival at the airport. Just remember to bring some USD cash with you.
 
+### General Cost of things
+
+Flight to Nepal is pretty expensive but once you land here, things are pretty cheap in Nepal compared to Europe.
+
+A typical meal in a good restaurant will cost you around 5-10 USD per person. 
+A bottle of water is 10 cents. 
+A beer is 2-3 USD. 
+A taxi ride is unexpected. I do not recommend using direct taxis in Nepal. [Check here](##how-to-get-around)
+A night in a good hotel is 50-100 USD, you can get cheaper options for 20-30 USD.
+
+### How to get around
+
+#### Riding Apps
+
+You can use [Pathoa](https://pathao.com/np/pathao-app/), [Indrive](https://indrive.com/en-np) or [Tootle](https://www.tootle.com.np/) for getting around in Kathmandu. You can either book a taxi or motorbike.
+
+#### Public Transportation
+
+You need to be very brave to ride public transportation in Nepal. It's very crowded and not very clean; but it's very cheap. A bus ride will cost you 20 cents. If you want to get a sense of how people live in Nepal, you should try it. If you do not like chaos, avoid it.
 
 ### Weather
 

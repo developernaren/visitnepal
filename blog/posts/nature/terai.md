@@ -2,7 +2,7 @@
 icon: food
 cover: /assets/nature/terai-cover.png
 category:
-  - Food
+  - City
 tag:
   - terai
 footer: true

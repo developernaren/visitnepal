@@ -39,6 +39,9 @@ export default hopeTheme({
 
   // These features are enabled for demo, only preserve features you need here
   markdown: {
+    markdown: {
+      revealjs: true,
+    },
     align: true,
     attrs: true,
     codeTabs: true,
@@ -102,9 +105,9 @@ export default hopeTheme({
     // sandpack: true,
 
     // install @vuepress/plugin-revealjs and uncomment these if you need slides
-    // revealjs: {
-    //   plugins: ["highlight", "math", "search", "notes", "zoom"],
-    // },
+    revealjs: {
+      plugins: ["highlight", "math", "search", "notes", "zoom"],
+    },
   },
 
   plugins: {

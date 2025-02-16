@@ -11,10 +11,10 @@ export const enSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "Nature",
+      text: "Our Tour",
       icon: "laptop-code",
-      prefix: "nature/",
-      link: "/tag/nature/",
+      prefix: "posts",
+      link: "posts/our-time/tour.html",
       children: "structure",
     },
 

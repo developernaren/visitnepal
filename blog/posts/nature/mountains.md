@@ -2,7 +2,7 @@
 icon: food
 cover: /assets/nature/mountains-cover.png
 category:
-  - Food
+  - City
 tag:
   - hills
 footer: true
