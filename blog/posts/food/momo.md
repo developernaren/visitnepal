@@ -19,7 +19,9 @@ footer: true
 
 # Momo
 
-Best Food Ever. The most popular food in Nepal.
+Best Food Ever. The most popular food in Nepal. You can never go wrong with this
+
+<!-- more -->
 
 ### General Information
 - **Taste:** Not Spicy

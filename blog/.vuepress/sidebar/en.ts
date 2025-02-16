@@ -8,13 +8,17 @@ export const enSidebar = sidebar({
       icon: "laptop-code",
       prefix: "intro/",
       link: "/intro.html",
-      children: "structure",
     },
     {
       text: "Our Tour",
       icon: "laptop-code",
       prefix: "posts",
       link: "posts/our-time/tour.html",
+    },
+    {
+      text: "General Information",
+      icon: "laptop-code",
+      prefix: "posts",
       children: "structure",
     },
 

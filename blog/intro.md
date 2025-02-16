@@ -4,6 +4,7 @@ cover: /assets/tour/tour-cover.jpg
 sticky: true
 prev: false
 next: false
+star: true
 ---
 
 # Before you start
