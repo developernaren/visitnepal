@@ -16,6 +16,7 @@ next: false
 comment: false
 sticky: false
 photoSwipe: true
+draft: true
 footer: true
 ---
 

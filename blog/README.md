@@ -12,7 +12,7 @@ projects:
   - icon: folder-open
     name: Our Tour
     desc: Just some general information about our tour
-    link: posts/our-time/tour.html
+    link: posts/our-time/mardi.html
 
   - icon: newspaper
     name: Food

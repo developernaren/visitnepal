@@ -82,5 +82,6 @@ Because we will be travelling to higher altitudes, please take is slow. There ar
 
 You can find almost anything you would need for trekking in Kathmandu and for cheap. So, if you do not have trekking gears, worry not! You have to set aside some days for shopping though.
 
+### Fitness and Health
 
-
+Please be prepared for a lot of walking. During the trek, we may have to walk anywhere from 3 hours a day up to 8 hours day and mostly uphill. Please start excersizing and walking a few months before the trip. Slow and steady is the key here. You have to build up your stamina.
