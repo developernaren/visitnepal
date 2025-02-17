@@ -1,6 +1,6 @@
 ---
 icon: food
-cover: /assets/mardi/img4.jpg
+cover: /assets/adventure/paragliding/img2.jpg
 category:
   - Adventure
 tag:
@@ -22,3 +22,15 @@ footer: true
 # Paragliding
 
 Paragliding is one of the most popular adventure sports in Nepal. The thrill of flying in the sky is something that you will never forget. The view of the mountains and the valley is just breathtaking.
+
+<!-- more -->
+
+<!-- markdownlint-disable -->
+
+<div class="image-preview">
+  <img src="/assets/adventure/paragliding/img2.jpg" />
+  <img src="/assets/adventure/paragliding/img3.jpg" />
+  <img src="/assets/adventure/paragliding/img1.jpg" />
+</div>
+
+<!-- markdownlint-restore -->

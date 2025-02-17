@@ -1,6 +1,6 @@
 ---
 icon: food
-cover: /assets/mardi/img4.jpg
+cover: /assets/adventure/bungy/img1.jpg
 category:
   - Adventure
 tag:
@@ -22,5 +22,13 @@ footer: true
 
 # Bungy Jumping
 
-It might be too cold to go for white river rafting but this is one of the best things you can do in Nepal.
+It's few seconds of Thrill. You just drop from a bridge and you are free falling. 
+
+This is the [company](https://www.highgroundnepal.com/) in Pokhara that offers Bungy Jumping and other adventure activities
+
+**Image Credit**: [High Ground Adventures](https://www.highgroundnepal.com/)
+
+
+
+
 

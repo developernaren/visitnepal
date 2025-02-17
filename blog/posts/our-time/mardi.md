@@ -28,16 +28,49 @@ This is best for the beginners to test the endurance and know your physical limi
 
 - Day 1: Drive / Fly to Pokhara  
   Drive to pokhara is very scenic and offers view of rivers and you get to know things along the way  
-  You can also fly there, the flight lasts for 25 minutes, you can go there and reach the starting point of the trek in the same day.
+  Cost Breakdown:
+    - Travel: Range from 1000 to 2000 NPR
+    - Accommodation: Range from EUR 20
+    - Elevation: 1400m
+    - Duration of walk: No walking, we can visit Pokhara city and enjoy some night life
+
+- Day 2: Drive to Kande and trek to Deurali  
+  The trek starts from Kande, you can drive there from Pokhara. The trek is about 4-5 hours long and you will reach Deurali by the end of the day.
   Cost Breakdown:
     - Travel:
     - Accommodation:
     - Elevation:
-    - Duration of walk
-
-
-- Day 2: Drive to Kande and trek to Deurali  
-  The trek starts from Kande, you can drive there from Pokhara. The trek is about 4-5 hours long and you will reach Deurali by the end of the day.
+    - Duration of walk:
+- Day 3: Trek to Forest Camp  
+  The trek is about 5-6 hours long and you will reach Forest Camp by the end of the day.
+  Cost Breakdown:
+    - Travel:
+    - Accommodation:
+    - Elevation:
+    - Duration of walk:
+- Day 4: Trek to High Camp  
+  The trek is about 4-5 hours long and you will reach High Camp by the end of the day.
+  Cost Breakdown:
+    - Travel:
+    - Accommodation:
+    - Elevation:
+    - Duration of walk:
+- Day 5: Trek to Mardi Base Camp and back to High Camp  
+  The trek is about 6-7 hours long and you will reach Mardi Base Camp by the end of the day.
+  Cost Breakdown:
+    - Travel:
+    - Accommodation:
+    - Elevation:
+    - Duration of walk:
+- Day 6: Trek to Siding Village  
+  The trek is about 6-7 hours long and you will reach Siding Village by the end of the day.
+  Cost Breakdown:
+    - Travel:
+    - Accommodation:
+    - Elevation:
+    - Duration of walk:
+- Day 7: Trek to Lumre and drive to Pokhara  
+  The trek is about 3-4 hours long and you will reach Lumre by the end of the day. You can drive back to Pokhara from Lumre.
   Cost Breakdown:
     - Travel:
     - Accommodation:
@@ -67,38 +100,10 @@ This is best for the beginners to test the endurance and know your physical limi
   <img src="/assets/mardi/img16.jpg" />
 </div>
 
-<style>
-  .image-preview {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-
-  .image-preview > img {
-     box-sizing: border-box;
-     width: 33.3% !important;
-     padding: 9px;
-     border-radius: 16px;
-  }
-
-  @media (max-width: 719px){
-    .image-preview > img {
-      width: 50% !important;
-    }
-  }
-
-  @media (max-width: 419px){
-    .image-preview > img {
-      width: 100% !important;
-    }
-  }
-</style>
-
 <!-- markdownlint-restore -->
 
 ### Relevant Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dc0b9cKXbZk" title="Australian Camp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jay5b4vygig" title="Mardi Trek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 

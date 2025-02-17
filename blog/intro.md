@@ -18,6 +18,10 @@ https://immigration.gov.np/en/page/tourist-visa
 
 Tl:dr; Most countries can get a visa on arrival at the airport. Just remember to bring some USD cash with you.
 
+### On your way to Nepal
+
+Nepal does not have a direct flight from Europe, so you have to transfer from somewhere. [Dubai](https://u.ae/en/information-and-services/visa-and-emirates-id/transit-visa) and [Qatar](https://visitqatar.com/intl-en/plan-your-trip/visas/visa-details) offers  which will allow you to visit Dubai or Doha for few days. You can make a mini vacation out of it.
+
 ### Safety and Security
 
 Emergency number in Nepal is ==100== for police and ==102== for ambulance. Please remember these numbers. The main cities we will be travelling during our trip is Kathmandu and Pokhara. These cities are considered very safe for tourists.

@@ -25,11 +25,7 @@ Best Food Ever. The most popular food in Nepal. You can never go wrong with this
 
 ### General Information
 - **Taste:** Not Spicy
-- **Price:** Range from Rs 100
-
-### Famous Places
-- Bota Momo
-- Momo House
+- **Price:** Ranges from Rs 100
 
 ### Related Shorts
 
