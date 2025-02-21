@@ -22,6 +22,10 @@ Tl:dr; Most countries can get a visa on arrival at the airport. Just remember to
 
 Nepal does not have a direct flight from Europe, so you have to transfer from somewhere. [Dubai](https://u.ae/en/information-and-services/visa-and-emirates-id/transit-visa) and [Qatar](https://visitqatar.com/intl-en/plan-your-trip/visas/visa-details) offers  which will allow you to visit Dubai or Doha for few days. You can make a mini vacation out of it.
 
+### SIM
+
+Please buy sim cards in the airport if you can. You can buy both Ncell and NTC. If one does not work somewhere, the other might. You can buy data packages for very cheap.
+
 ### Safety and Security
 
 Emergency number in Nepal is ==100== for police and ==102== for ambulance. Please remember these numbers. The main cities we will be travelling during our trip is Kathmandu and Pokhara. These cities are considered very safe for tourists.
@@ -92,6 +96,8 @@ Please be prepared for a lot of walking. During the trek, we may have to walk an
 
 ### Political Correctness 
 
-You might hear casual comments about your weight, skin color, age, gender etc during conversations. Please do not take it personally. Most likely, people are just curious and trying to make conversation. Social make up and history makes different things taboo in different cultures. The things you might find offensive might not be offensive to someone else and vice versa. For example, joking about caste system is considered offensive in Nepal but people comment on weight all the time and it is not considered offensive. If you feel uncomfortable with any conversations you are part of, please leave the situation and DO NOT start arguing. It's not worth it.
+You might hear casual comments about your weight, skin color, age, gender etc during conversations. Please do not take it personally. Most likely, people are just curious and trying to make conversation. Social make up and history makes different things taboo in different cultures. The things you might find offensive might not be offensive to someone else and vice versa. For example, joking about caste system is considered offensive in Nepal but people comment on weight all the time, and it is not considered offensive. If you feel uncomfortable with any conversations you are part of, please leave the situation and DO NOT start arguing. It's not worth it.
 
+### Public Display of Affection
 
+Kissing and hugging in public is not very common in Nepal. Please be mindful of this. Holding hands is fine.
