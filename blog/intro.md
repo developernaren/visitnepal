@@ -89,3 +89,9 @@ You can find almost anything you would need for trekking in Kathmandu and for ch
 ### Fitness and Health
 
 Please be prepared for a lot of walking. During the trek, we may have to walk anywhere from 3 hours a day up to 8 hours day and mostly uphill. Please start excersizing and walking a few months before the trip. Slow and steady is the key here. You have to build up your stamina.
+
+### Political Correctness 
+
+You might hear casual comments about your weight, skin color, age, gender etc during conversations. Please do not take it personally. Most likely, people are just curious and trying to make conversation. Social make up and history makes different things taboo in different cultures. The things you might find offensive might not be offensive to someone else and vice versa. For example, joking about caste system is considered offensive in Nepal but people comment on weight all the time and it is not considered offensive. If you feel uncomfortable with any conversations you are part of, please leave the situation and DO NOT start arguing. It's not worth it.
+
+
