@@ -14,8 +14,6 @@ export default defineUserConfig({
   },
   theme,
   alias: {
-    // Here you can direct aliases to your own components
-    // For example, here we change the theme's home page component to HomePage.vue under user .vuepress/components
     "@theme-hope/modules/info/components/AuthorInfo": path.resolve(
         __dirname,
         "./components/Empty.vue",
