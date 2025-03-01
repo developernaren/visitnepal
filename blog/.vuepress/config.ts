@@ -24,6 +24,10 @@ export default defineUserConfig({
         __dirname,
         "./components/Empty.vue",
     ),
+    "@theme-hope/modules/info/components/DateInfo": path.resolve(
+        __dirname,
+        "./components/Empty.vue",
+    ),
   },
   // Enable it with pwa
   // shouldPrefetch: false,
