@@ -9,15 +9,21 @@ projects:
     desc: Things that are essential for you to know
     link: /intro.html
     
-  - icon: folder-open
+  - icon: calendar
     name: Our Tour
     desc: Just some general information about our tour
     link: posts/our-time/mardi.html
+    
+  - icon: calendar
+    name: Our Schedule
+    desc: Just some general information about our tour
+    link: posts/our-time/mardi.html
 
-  - icon: newspaper
+  - icon: home
     name: Food
     desc: Whatever you like, we most likely can order from somewhere
     link: /category/food/
+    
 
 footer: Made with ❤️ by Naren
 ---

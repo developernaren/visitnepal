@@ -27,7 +27,7 @@ We will start our trek on October 26th. The trek will most likely take 4 days. W
 
 ### Before the Trek
 
-Tihar (Diwlai in India) starts from 19th October and ends on 23rd October. If you are interested in tradition and culture in a Nepali society. I recommend you can come during this week. One downside is during last 3 days of the festivals, almost all the restaurants and shops are closed. So, you might have to plan for food accordingly, you will have less options but wont't go hungry do not worry.
+Tihar (Diwali in India) starts from 19th October and ends on 23rd October. If you are interested in tradition and culture in a Nepali society. I recommend you can come during this week. One downside is during last 3 days of the festivals, almost all the restaurants and shops are closed. So, you might have to plan for food accordingly, you will have less options but wont't go hungry do not worry.
 
 ### After the Trek
 
