@@ -9,7 +9,7 @@ projects:
     desc: Things that are essential for you to know
     link: /intro.html
     
-  - icon: calendar
+  - icon: newspaper
     name: Our Tour
     desc: Just some general information about our tour
     link: posts/our-time/mardi.html
@@ -17,7 +17,7 @@ projects:
   - icon: calendar
     name: Our Schedule
     desc: Just some general information about our tour
-    link: posts/our-time/mardi.html
+    link: posts/our-time/intro.html
 
   - icon: home
     name: Food
